@@ -1,12 +1,6 @@
-    #include<iostream>
-    #include <fstream>
-    #include <string>
-    #include <vector>
-    #include <iomanip>
-	#include <fstream>
-	#include <ostream>
-
-	using namespace std;
+#include<iostream>
+using namespace std;
+Int main() {
 
 	//Global variable for total of items entered
 	int productsub[100];
