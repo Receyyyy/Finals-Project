@@ -1,12 +1,4 @@
-#include<fstream.h>
-#include<conio.h>
-#include<stdio.h>
-#include<graphics.h>
-#include<dos.h>
-#include<stdlib.h>
-#include<dos.h>
-#include<string.h>
-#include<iomanip.h>
+#include<iostream>
 Using namespace std;
 Int main ()
 class lib
