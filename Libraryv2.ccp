@@ -7,6 +7,8 @@
 #include<dos.h>
 #include<string.h>
 #include<iomanip.h>
+Using namespace std;
+Int main ()
 class lib
 {
 public:
